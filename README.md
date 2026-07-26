@@ -1,4 +1,4 @@
-# 😜 Hi, I'M Kunal Ujjwal
+😜
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kunal+Ujjwal;Frontend+Developer;B.Tech+CS+Student;Learning+Web+Development)](https://git.io/typing-svg)
 
 $$ 💻 Frontend Developer
