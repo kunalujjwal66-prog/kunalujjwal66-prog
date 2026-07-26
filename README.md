@@ -26,4 +26,4 @@ $$ 💻 Frontend Developer
 ## 😊 Connet With Me-----
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kunalujjwal66-prog)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/kunalujjwal)
-- LinkedIn: https://www.linkedin.com/in/kunal-ujjwal
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:kunalujjwal66@gmail.com)
