@@ -14,6 +14,9 @@ $$ 💻 Frontend Developer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## 😎 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalujjwal66-prog&show_icons=true&theme=tokyonight)
+
 ## ❤️PROJECTS---
 
 - 🔐 Login Form
