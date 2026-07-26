@@ -24,6 +24,6 @@ $$ 💻 Frontend Developer
 - 🌐 Portfolio Website
 
 ## 😊 Connet With Me-----
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kunalujjwal66-prog)
 - Github: https://github.com/kunalujjwal66-prog
 - LinkedIn: https://www.linkedin.com/in/kunal-ujjwal
