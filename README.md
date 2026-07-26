@@ -1,7 +1,7 @@
 😜
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kunal+Ujjwal;Frontend+Developer;B.Tech+CS+Student;Learning+Web+Development)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?usernamr=kunalujjwal66-prog&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kunalujjwal66-prog&style=for-the-badge)
 
 $$ 💻 Frontend Developer
 
