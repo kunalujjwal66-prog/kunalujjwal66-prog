@@ -15,7 +15,7 @@ $$ 💻 Frontend Developer
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 😎 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalujjwal66-prog&show_icons=true&theme=tokyonight)
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalujjwal66-prog&show_icons=true&theme=tokyonight)
 
 ## ❤️PROJECTS---
 
